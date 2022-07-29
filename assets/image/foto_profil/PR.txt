@@ -1,0 +1,14 @@
+Problem :
+1. Halaman Lowongan belum dikarjakan
+2. Halaman Broadcast Belum dikerjakan
+
+
+3. jika tidak upload foto, maka sistem akan tetap bisa berjalan
+4. jika sudah ada file photo, maka sistem akan mengganti tulisan 'file not chosen' menjadi judul dari gambar (nama file)
+5. link pagination jika dipake filter yang berbeda masih random
+6. jika pake filter pencarian, maka text input search menyesuaikan dengan filter
+7. 
+
+
+PENTING!
+SEBELUM HOSTING, PERHATIKAN KEMBALI BASE URL DAN TEMAN-TEMANNYA
